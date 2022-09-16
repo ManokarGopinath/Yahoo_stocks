@@ -574,7 +574,7 @@ def mostactive():
         for Ration in listing.find_all('td', attrs={'aria-label':'PE Ratio (TTM)'}):
             Rations.append(Ration.text)
  
-    dataframe = pd.DataFrame({"Symbols": symbols, "Names": names, "Prices": prices, "Change": changes, "% Change": percentChanges, "Volume": circulatingSupplys, "Average Volume": totalVolumes, "Market Cap": marketCaps, "Ration": Ration, "date/time":dt_string,})#"Volume":circulatingSupplys})
+    dataframe = pd.DataFrame({"Symbols": symbols, "Names": names, "Prices": prices, "Change": changes, "% Change": percentChanges, "Volume": circulatingSupplys, "Average Volume": totalVolumes, "Market Cap": marketCaps, "Ration": Rations, "date/time":dt_string,})#"Volume":circulatingSupplys})
     #dataframe.to_csv('demo.csv')
 
     dataframe.to_csv('./static/files/mostactive.csv', encoding='utf-8')
