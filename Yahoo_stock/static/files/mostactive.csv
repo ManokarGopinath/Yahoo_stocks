@@ -1,0 +1,55 @@
+,Symbols,Names,Prices,Change,% Change,Volume,Average Volume,Market Cap
+0,CCL,Carnival Corporation & plc,10.95,+0.38,+3.61%,22.576M,53.649M,14.046B
+1,TSLA,"Tesla, Inc.",304.96,+2.35,+0.78%,21.099M,79.507M,922.5B
+2,AMD,"Advanced Micro Devices, Inc.",76.39,-1.06,-1.36%,18.922M,81.999M,123.326B
+3,STOR,STORE Capital Corporation,32.20,+5.41,+20.19%,18.314M,2.153M,9.103B
+4,AAPL,Apple Inc.,153.73,-1.58,-1.02%,18.045M,74.18M,2.447T
+5,NIO,NIO Inc.,22.22,+0.27,+1.25%,16.835M,48.283M,37.234B
+6,SOFI,"SoFi Technologies, Inc.",6.37,+0.20,+3.28%,15.825M,39.489M,5.095B
+7,NLY,"Annaly Capital Management, Inc.",6.35,-0.06,-0.94%,13.03M,30.153M,10.949B
+8,F,Ford Motor Company,15.02,+0.36,+2.46%,13.27M,61.837M,60.386B
+9,NVDA,NVIDIA Corporation,130.08,-1.20,-0.91%,12.814M,54.18M,324.159B
+10,AMZN,"Amazon.com, Inc.",128.52,-0.03,-0.02%,12.18M,60.121M,1.309T
+11,PLTR,Palantir Technologies Inc.,7.88,+0.24,+3.21%,12.2M,37.712M,16.255B
+12,SNAP,Snap Inc.,11.92,+0.40,+3.47%,12.021M,55.311M,19.656B
+13,DKNG,DraftKings Inc.,19.12,+0.73,+3.94%,11.522M,19.504M,8.578B
+14,BAC,Bank of America Corporation,34.34,+0.47,+1.39%,10.507M,40.541M,275.93B
+15,CSX,CSX Corporation,30.62,-0.60,-1.94%,10.104M,14.9M,65.575B
+16,DNA,"Ginkgo Bioworks Holdings, Inc.",3.2400,+0.1700,+5.54%,10.093M,25.686M,6.076B
+17,META,"Meta Platforms, Inc.",151.01,-0.46,-0.31%,9.714M,28.531M,405.833B
+18,AMC,"AMC Entertainment Holdings, Inc.",10.17,+0.26,+2.60%,9.289M,45.255M,5.219B
+19,NU,Nu Holdings Ltd.,5.61,+0.19,+3.51%,9.195M,25.589M,26.234B
+20,ADBE,Adobe Inc.,322.30,-49.22,-13.25%,8.623M,2.623M,150.834B
+21,UBER,"Uber Technologies, Inc.",33.74,+0.69,+2.07%,8.762M,28.348M,66.793B
+22,RIVN,"Rivian Automotive, Inc.",40.00,-0.10,-0.25%,7.911M,16.524M,35.336B
+23,AFRM,"Affirm Holdings, Inc.",24.52,+0.19,+0.78%,7.658M,14.119M,7.088B
+24,VALE,Vale S.A.,12.90,-0.02,-0.12%,7.567M,32.612M,63.658B
+25,MNDT,"Mandiant, Inc.",22.98,0.00,0.00%,7.178M,3.302M,5.397B
+26,MSFT,Microsoft Corporation,247.21,-5.01,-1.99%,7.147M,24.478M,1.842T
+27,PLUG,Plug Power Inc.,29.42,-0.17,-0.57%,7.271M,22.088M,17.042B
+28,INTC,Intel Corporation,29.11,-0.07,-0.22%,7.12M,39.516M,119.546B
+29,CHPT,"ChargePoint Holdings, Inc.",19.59,+1.41,+7.76%,6.974M,9.973M,6.658B
+30,NEE,"NextEra Energy, Inc.",86.23,-2.65,-2.98%,6.812M,7.538M,169.423B
+31,XPEV,XPeng Inc.,15.84,-0.18,-1.12%,6.73M,11.972M,13.59B
+32,RIG,Transocean Ltd.,3.2650,-0.1450,-4.25%,6.716M,18.409M,2.304B
+33,AAL,American Airlines Group Inc.,14.27,+0.24,+1.75%,6.725M,31.714M,9.277B
+34,TELL,Tellurian Inc.,3.8650,-0.2850,-6.87%,6.632M,16.64M,2.183B
+35,CMCSA,Comcast Corporation,33.92,-0.55,-1.58%,6.453M,23.743M,149.719B
+36,SHOP,Shopify Inc.,33.91,+0.22,+0.65%,6.304M,31.736M,43.011B
+37,SQ,"Block, Inc.",70.03,+1.47,+2.14%,6.122M,14.382M,41.331B
+38,SWN,Southwestern Energy Company,7.72,-0.34,-4.28%,6.117M,41.391M,8.597B
+39,GOOGL,Alphabet Inc.,103.71,-1.29,-1.23%,6.083M,31.16M,1.35T
+40,LCID,"Lucid Group, Inc.",16.98,+0.35,+2.07%,5.939M,17.231M,28.481B
+41,FSR,Fisker Inc.,9.83,+0.60,+6.50%,5.925M,4.926M,2.936B
+42,NCLH,Norwegian Cruise Line Holdings Ltd.,15.44,+0.37,+2.42%,5.871M,20.298M,6.504B
+43,T,AT&T Inc.,16.72,-0.05,-0.30%,5.866M,38.856M,119.143B
+44,HOOD,"Robinhood Markets, Inc.",11.23,+0.45,+4.22%,5.706M,13.757M,9.389B
+45,ROKU,"Roku, Inc.",72.82,+4.47,+6.54%,5.687M,9.691M,10.044B
+46,NFLX,"Netflix, Inc.",233.62,+9.50,+4.24%,5.531M,9.432M,103.89B
+47,TLRY,"Tilray Brands, Inc.",3.4150,+0.0350,+1.04%,5.629M,25.231M,1.981B
+48,CLF,Cleveland-Cliffs Inc.,15.67,+0.32,+2.08%,5.492M,15.388M,8.106B
+49,OXY,Occidental Petroleum Corporation,65.19,-2.01,-2.99%,5.474M,26.499M,60.724B
+50,INFY,Infosys Limited,17.60,-0.48,-2.65%,5.235M,8.235M,79.484B
+51,RBLX,Roblox Corporation,45.16,+0.09,+0.20%,5.177M,25.205M,26.95B
+52,GRAB,Grab Holdings Limited,3.0694,+0.0194,+0.64%,5.147M,25.354M,11.785B
+53,WBD,"Warner Bros. Discovery, Inc.",13.13,+0.42,+3.30%,5.207M,24.106M,31.874B
