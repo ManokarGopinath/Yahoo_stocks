@@ -553,7 +553,7 @@ def mostactive():
     headers = {'User-Agent': user_agent }
     r= requests.get(url, headers=headers)
     data=r.text
-    soup=BeautifulSoup(data)
+    soup=BeautifulSoup(data,'lxml')
     for listing in soup.find_all('tr', attrs={'class':'simpTblRow'}):
         for symbol in listing.find_all('td', attrs={'aria-label': 'Symbol'}):
             symbols.append(symbol.text)
@@ -600,7 +600,7 @@ def gainers():
     headers = {'User-Agent': user_agent }
     r= requests.get(url, headers=headers)
     data=r.text
-    soup=BeautifulSoup(data)
+    soup=BeautifulSoup(data,'lxml')
     for listing in soup.find_all('tr', attrs={'class':'simpTblRow'}):
         for ar in listing.find_all('td', attrs={'aria-label': 'Symbol'}):
             ar_.append(ar.text)
@@ -647,7 +647,7 @@ def losers():
     headers = {'User-Agent': user_agent }
     r= requests.get(url, headers=headers)
     data=r.text
-    soup=BeautifulSoup(data)
+    soup=BeautifulSoup(data,'lxml')
     for listing in soup.find_all('tr', attrs={'class':'simpTblRow'}):
         for ga in listing.find_all('td', attrs={'aria-label': 'Symbol'}):
             ga_.append(ga.text)
@@ -694,7 +694,7 @@ def trendingtickers():
     headers = {'User-Agent': user_agent }
     r= requests.get(url, headers=headers)
     data=r.text
-    soup=BeautifulSoup(data)
+    soup=BeautifulSoup(data,'lxml')
     for listing in soup.find_all('tr', attrs={'class':'simpTblRow'}):
         for sa in listing.find_all('td', attrs={'aria-label': 'Symbol'}):
             sa_.append(sa.find('a').text)
